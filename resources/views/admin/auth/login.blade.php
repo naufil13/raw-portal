@@ -40,8 +40,8 @@
 						<!--begin::Login Sign in form-->
 						<div class="login-signin">
 							<div class="mb-10">
-								<h3>Admin Panel</h3>
-								<div class="text-muted font-weight-bold">Enter your login details</div>
+								<h3>Welcome to Application Portal</h3>
+								{{-- <div class="text-muted font-weight-bold">Enter your login details</div> --}}
 							</div>
                             <form method="POST" class="kt_login_signin_form" action="{{ admin_url('login/do_login') }}">
                                 @csrf

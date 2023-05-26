@@ -1,11 +1,11 @@
 
 	<!--begin::Aside-->
-    <div class="aside aside-left aside-fixed d-flex flex-column flex-row-auto" style=" background: #000; color: #fff; padding-bottom: 14px; padding-top: 4px; " id="kt_aside">
+    <div class="aside aside-left aside-fixed d-flex flex-column flex-row-auto" style=" background: #009688; color: #fff; padding-bottom: 14px; padding-top: 4px; " id="kt_aside">
         <!--begin::Brand-->
         <a href="" class="flex-column-auto" id="kt_brand">
             <!--begin::Logo-->
             <h3 class="text-light font-weight-boldest pt-5 pl-7">
-               Admin / Operations
+               API Solutions
             </h3>
             <!--end::Logo-->
 

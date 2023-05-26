@@ -4,7 +4,7 @@
     <div class="kt-container  kt-container--fluid text-center">
         <div class="kt-footer__copyright">
             Copyright {{date('Y')}} Designed & Developed by
-            <a href="http://www.lathransoft.com/" target="_blank" class=""> &nbsp;{{ get_option('developer') }}</a>
+            <a href="http://www.apisoltech.com/" target="_blank" class=""> &nbsp; API Solutions</a>
         </div>
         {{--<div class="kt-footer__menu">
             <a href="javascript:" target="_blank" class="kt-footer__menu-link kt-link">About</a>
